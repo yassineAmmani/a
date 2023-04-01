@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083610984151",
+    "project_id": "pfetest-deb4b",
+    "storage_bucket": "pfetest-deb4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083610984151:android:6b8fe2993fa28dd7e64a92",
+        "android_client_info": {
+          "package_name": "com.example.pfe2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083610984151-o2vaoslg6g1f8iilc0euc9cn9jcb6qb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVwUxjZMbxSy-yv6eL992UMfLyxN4QnNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083610984151-o2vaoslg6g1f8iilc0euc9cn9jcb6qb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple">#5452F6</color>
+    <color name="purplemed">#B1B0F9</color>
+    <color name="purplelight">#EEEEFF</color>
+    <color name="neutral">#D4D6DD</color>
+    <color name="neutral_700">#71727A</color>
+    <color name="neutral_100">#C5C6CC</color>
+    <color name="neutral_900">#1F2024</color>
+
+
+    <color name="purpleDark">#5452F6</color>
+    <color name="purpleLight">#EEEEFF</color >
+    <color name="purpleMedium">#B1B0F9</color >
+    <color name="highlightDarkest">#006FFD</color  >
+    <color name="highlightDark">#2897FF</color    >
+    <color name="highlightMedium">#6FBAFF</color    >
+    <color name="highlightLight">#B4DBFF</color    >
+    <color name="highlightLightest">#EAF2FF</color    >
+    <color name="neutralLightDarkest">#C5C6CC</color    >
+    <color name="neutralLightDark">#D4D6DD</color    >
+    <color name="neutralLightMedium">#E8E9F1</color   >
+    <color name="neutralLightLight">#F8F9FE</color    >
+    <color name="neutralLightLightest">#FFFFFF</color    >
+    <color name="supportSuccessDark">#298267</color    >
+    <color name="supportSuccessMedium">#3AC0A0</color    >
+    <color name="supportSuccessLight">#E7F4E8</color    >
+    <color name="supportErrorDark">#ED3241</color    >
+    <color name="supportErrorMedium">#FF616D</color   >
+    <color name="supportErrorLight">#FFE2E5</color    >
+</resources>
